@@ -1,7 +1,7 @@
 DTAI Logo
 =========
 
-This repository contains a set of vectorized logo's for the [DTAI (Declarative Languages and Artificial Intelligence) group](https://dtai.cs.kuleuven.be/) at the [Univerity of Leuven](https://www.kuleuven.be/kuleuven/).
+This repository contains a set of vectorized logo's for the [DTAI (Declarative Languages and Artificial Intelligence) group](https://dtai.cs.kuleuven.be/) at the [University of Leuven](https://www.kuleuven.be/kuleuven/).
 
 These logos are the property of the DTAI group.
 
